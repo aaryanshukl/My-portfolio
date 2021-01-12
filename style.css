@@ -1,0 +1,11 @@
+img {
+    border-width: medium;
+    border-color: darkgray;
+    width: 25%;
+}
+
+body {
+    background-color: aquamarine;
+    text-align: center;
+    color: azure;
+}
